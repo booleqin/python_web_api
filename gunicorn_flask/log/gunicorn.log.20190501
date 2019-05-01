@@ -1,0 +1,23 @@
+[2019-05-01 13:33:46 +0800] [7241] [INFO] Starting gunicorn 19.9.0
+[2019-05-01 13:33:46 +0800] [7241] [INFO] Listening at: http://0.0.0.0:8022 (7241)
+[2019-05-01 13:33:46 +0800] [7241] [INFO] Using worker: sync
+[2019-05-01 13:33:46 +0800] [7250] [INFO] Booting worker with pid: 7250
+[2019-05-01 13:33:46 +0800] [7251] [INFO] Booting worker with pid: 7251
+[2019-05-01 13:33:46 +0800] [7252] [INFO] Booting worker with pid: 7252
+[2019-05-01 13:33:46 +0800] [7253] [INFO] Booting worker with pid: 7253
+[2019-05-01 13:33:46 +0800] [7254] [INFO] Booting worker with pid: 7254
+[2019-05-01 13:33:46 +0800] [7255] [INFO] Booting worker with pid: 7255
+[2019-05-01 13:33:46 +0800] [7256] [INFO] Booting worker with pid: 7256
+[2019-05-01 13:33:46 +0800] [7257] [INFO] Booting worker with pid: 7257
+[2019-05-01 13:33:46 +0800] [7268] [INFO] Booting worker with pid: 7268
+[2019-05-01 13:35:10 +0800] [7241] [INFO] Handling signal: term
+[2019-05-01 13:35:10 +0800] [7250] [INFO] Worker exiting (pid: 7250)
+[2019-05-01 13:35:10 +0800] [7251] [INFO] Worker exiting (pid: 7251)
+[2019-05-01 13:35:10 +0800] [7252] [INFO] Worker exiting (pid: 7252)
+[2019-05-01 13:35:10 +0800] [7253] [INFO] Worker exiting (pid: 7253)
+[2019-05-01 13:35:10 +0800] [7254] [INFO] Worker exiting (pid: 7254)
+[2019-05-01 13:35:10 +0800] [7255] [INFO] Worker exiting (pid: 7255)
+[2019-05-01 13:35:10 +0800] [7256] [INFO] Worker exiting (pid: 7256)
+[2019-05-01 13:35:10 +0800] [7257] [INFO] Worker exiting (pid: 7257)
+[2019-05-01 13:35:10 +0800] [7268] [INFO] Worker exiting (pid: 7268)
+[2019-05-01 13:35:10 +0800] [7241] [INFO] Shutting down: Master
